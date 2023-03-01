@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45718d6e.css",
+    "main.js": "/static/js/main.7271743d.js",
+    "static/js/787.a2bf511c.chunk.js": "/static/js/787.a2bf511c.chunk.js",
+    "static/media/video-tiktok.mp4": "/static/media/video-tiktok.34f2936c33d8716cbd94.mp4",
+    "static/media/video-tiktok2.mp4": "/static/media/video-tiktok2.b34d5790805f99e120fb.mp4",
+    "index.html": "/index.html",
+    "main.45718d6e.css.map": "/static/css/main.45718d6e.css.map",
+    "main.7271743d.js.map": "/static/js/main.7271743d.js.map",
+    "787.a2bf511c.chunk.js.map": "/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45718d6e.css",
+    "static/js/main.7271743d.js"
+  ]
+}
